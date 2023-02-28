@@ -19,6 +19,7 @@ lightgbm = "^3.3.5"
 
 [tool.poetry.group.dev.dependencies]
 jupyterlab = "^3.6.1"
+ipykernel = "^6.21.2"
 
 [build-system]
 requires = ["poetry-core"]
